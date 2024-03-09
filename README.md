@@ -3,7 +3,7 @@
 - Shortcut: Ctrl + Shift + U
 
 # Credits
-- @sjk - The Levels API
+- @sjk - TUF Levels API
 - @Flower - DirectLevel (Level Download & Load in Editor)
 - @Sharky - UI & All the good stuff
 
