@@ -6,6 +6,7 @@
 - @sjk - TUF Levels API
 - @Flower - DirectLevel & UI & All the good stuff
 - @Sharky - UI & All the good stuff
+- @SensenPlayer - UI & All the good stuff
 
 # Features
 - All levels in TUF, accessible from the game! 게임 내에서 TUF 레벨 리스트 열람
